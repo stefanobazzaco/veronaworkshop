@@ -8,26 +8,26 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hdlab.space
+url: https://stefanobazzaco.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /plantilla-colecciones
+baseurl: /verona-seminar
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlab.space/plantilla-colecciones
+source-code: https://github.com/stefanobazzaco/verona-seminar
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Título de la colección
+title: Seminario Gimena Verona - prueba
 # tagline, a short phrase that will appear throughout the site in the top banner
 # tagline: Sitio del seminario
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HDLab-CONICET."
+description: "Ejercicio de Edición Digital"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: colecciones; edición digital; 
+keywords: colecciones; edición digital; Humanidades Digitales
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: hdlab-CONICET
+author: Stefano Bazzaco
 
 ##########
 # COLLECTION SETTINGS
